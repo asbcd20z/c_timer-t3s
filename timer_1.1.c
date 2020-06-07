@@ -1,5 +1,6 @@
 ///mycomment
 ///mycomment2-manual-try?
+///mycomment3-autopull-gitlab-hour?
 #include <pthread.h>
 #include <sys/signal.h>
 #include <sys/time.h>
