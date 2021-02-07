@@ -9,4 +9,5 @@ makefile
 #fatal: could not read Username for 'https://gitlab.com': No error
 //
 web edit@lab, push/pull hub
+web edit@hub, push/pull by lab
 ```
